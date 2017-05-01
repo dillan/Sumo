@@ -21,7 +21,7 @@ One compressed file can communicate without overhead.
 ## Usage
 
 Sumo consists of sessions and tasks.
-Multiple tasks are associated with one session, and you can obtain obtain artifacts by zip the session.
+Multiple tasks are associated with one session, and you can obtain artifacts by zip the session.
 
 ``` swift
 override func viewDidLoad() {
